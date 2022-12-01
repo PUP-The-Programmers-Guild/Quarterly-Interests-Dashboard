@@ -1,2 +1,6 @@
 data/test.csv
 
+// any kind of things you would normally name your python environment with
+venv/
+myenv/
+
