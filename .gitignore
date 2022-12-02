@@ -1,6 +1,13 @@
-data/test.csv
+# data
 
-// any kind of things you would normally name your python environment with
+# notebooks
+notebooks/.ipynb_checkpoints/
+
+# local variables
 venv/
 myenv/
+
+# config files
+config.cfg
+
 
